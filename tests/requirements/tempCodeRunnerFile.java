@@ -1,0 +1,1 @@
+     assertEquals(expected, token.getSymbol().toString());
